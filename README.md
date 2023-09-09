@@ -85,7 +85,9 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
   - Windows Users:
     `python(3) -m pyUltroid`
 
----
+----
+#deploy heroku
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Darklightning2008/Ultroid"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ## Necessary Variables
 - `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
 
